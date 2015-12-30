@@ -1,17 +1,9 @@
 # PushBulletBot
 A bot that uses PushBullet's API to notify me of stuff. This is very sloppy python code, feel free to contribute and clean it up.
 
+Make sure to go to https://weather.codes and search for your location, and plop it into the weatherCode variable.
 
 Feel free to use this code, just give me credit if you decide to upload a modified version.
-
-#Variables
-In order for the script to work properly, the following variables need to be filled out:
-
-`weatherCode`,  go to https://weather.codes and search for your location.
-
-`name` needs to be filled out with, well, your name.
-
-`api_key`, fill this variable in with your PushBullet API key, this can be found under "Your account"
 
 #Installation
 Make sure you have PushBullet installed on your android device (This is coming soon to iOS!)
